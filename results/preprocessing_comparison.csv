@@ -1,0 +1,4 @@
+Version,Vocabulary size,Average tokens per document,Total postings,Total stored positions
+A,36,6.9,66,69
+B,30,6.1,59,61
+C,24,6.1,57,61
